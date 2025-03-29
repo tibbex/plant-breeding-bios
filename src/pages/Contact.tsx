@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { Mail, Phone, MapPin, ExternalLink } from "lucide-react";
+import { Mail, Phone, ExternalLink } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
@@ -59,8 +59,8 @@ const Contact = () => {
                       <Mail className="h-5 w-5 text-sage-700 mt-0.5 mr-3" />
                       <div>
                         <div className="font-medium">Email</div>
-                        <a href="mailto:derese@ukzn.ac.za" className="text-sm text-sage-700 hover:underline">
-                          derese@ukzn.ac.za
+                        <a href="mailto:solomonassefagreenlight@yahoo.com" className="text-sm text-sage-700 hover:underline">
+                          solomonassefagreenlight@yahoo.com
                         </a>
                       </div>
                     </div>
@@ -69,23 +69,9 @@ const Contact = () => {
                       <Phone className="h-5 w-5 text-sage-700 mt-0.5 mr-3" />
                       <div>
                         <div className="font-medium">Phone</div>
-                        <a href="tel:+27123456789" className="text-sm text-sage-700 hover:underline">
-                          +27 12 345 6789
+                        <a href="tel:+252913106289" className="text-sm text-sage-700 hover:underline">
+                          +252 913 106 289
                         </a>
-                      </div>
-                    </div>
-                    
-                    <div className="flex items-start">
-                      <MapPin className="h-5 w-5 text-sage-700 mt-0.5 mr-3" />
-                      <div>
-                        <div className="font-medium">Address</div>
-                        <div className="text-sm text-muted-foreground">
-                          School of Agricultural, Earth and Environmental Sciences<br />
-                          University of KwaZulu-Natal<br />
-                          Pietermaritzburg Campus<br />
-                          Private Bag X01, Scottsville 3209<br />
-                          South Africa
-                        </div>
                       </div>
                     </div>
                     
@@ -93,7 +79,7 @@ const Contact = () => {
                       <ExternalLink className="h-5 w-5 text-sage-700 mt-0.5 mr-3" />
                       <div>
                         <div className="font-medium">YouTube Channel</div>
-                        <a href="#" className="text-sm text-sage-700 hover:underline">
+                        <a href="https://youtube.com/@solomonassefaagro?si=3fNFsILw-cfuQNKc" target="_blank" rel="noopener noreferrer" className="text-sm text-sage-700 hover:underline">
                           Let's Learn Agriculture Together
                         </a>
                       </div>
