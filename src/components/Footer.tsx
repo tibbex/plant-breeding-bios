@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="space-y-2">
             <h3 className="text-lg font-semibold text-sage-700">Dr. Solomon Assefa Derese</h3>
             <p className="text-sm text-muted-foreground">
-              Assistant Professor | Plant Breeding Scientist | Agricultural Educator
+              Lecturer | Plant Breeding Scientist | Agricultural Educator
             </p>
           </div>
           
@@ -27,9 +27,9 @@ const Footer = () => {
           <div className="space-y-2">
             <h3 className="text-sm font-semibold">Affiliation</h3>
             <div className="text-sm text-muted-foreground">
-              <p>University of KwaZulu-Natal</p>
-              <p>School of Agricultural, Earth and Environmental Sciences</p>
-              <p>Department of Plant Breeding</p>
+              <p>Woldia University</p>
+              <p>Department of Plant Sciences</p>
+              <p>Woldia, Ethiopia</p>
             </div>
           </div>
           
@@ -37,7 +37,7 @@ const Footer = () => {
             <h3 className="text-sm font-semibold">Connect</h3>
             <div className="text-sm text-muted-foreground">
               <p>YouTube: Let's Learn Agriculture Together</p>
-              <p>Email: derese@ukzn.ac.za</p>
+              <p>Email: derese@wldu.edu.et</p>
             </div>
           </div>
         </div>

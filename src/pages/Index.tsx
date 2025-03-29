@@ -16,7 +16,7 @@ const Index = () => {
               Dr. Solomon Assefa Derese
             </h1>
             <p className="mb-8 text-xl text-gray-600 max-w-md">
-              Assistant Professor at University of KwaZulu-Natal, 
+              Lecturer at Woldia University, 
               specializing in sustainable agriculture and drought-resistant crop breeding.
             </p>
             <div className="flex flex-wrap gap-4">

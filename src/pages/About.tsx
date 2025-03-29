@@ -6,7 +6,7 @@ const About = () => {
     <div className="animate-in">
       <PageHeader 
         title="About Dr. Solomon Assefa Derese" 
-        description="Assistant Professor | Plant Breeding Scientist | Agricultural Educator"
+        description="Lecturer | Plant Breeding Scientist | Agricultural Educator"
       />
       
       <section className="py-10 bg-white">
@@ -16,17 +16,17 @@ const About = () => {
               <div className="prose max-w-none">
                 <h2 className="text-2xl font-semibold text-sage-800 mb-4">Biography</h2>
                 <p>
-                  Dr. Solomon Assefa Derese is an esteemed Assistant Professor of Plant Breeding at the University of KwaZulu-Natal (UKZN). 
-                  He earned his Ph.D. in Plant Breeding from UKZN in 2018, graduating with distinction. His doctoral research focused on the 
+                  Dr. Solomon Assefa Derese is a dedicated Lecturer specializing in Plant Breeding at Woldia University in Ethiopia. 
+                  He earned his Ph.D. in Plant Breeding from the University of KwaZulu-Natal (UKZN) in 2018, graduating with distinction. His doctoral research focused on the 
                   agro-morphological characterization and selection of sorghum landraces, aiming to identify farmer-preferred, medium-maturing 
                   genotypes suitable for both rainfed and irrigated conditions.
                 </p>
                 
                 <h3 className="text-xl font-semibold text-sage-800 mt-8 mb-4">Professional Experience</h3>
                 <p>
-                  Before joining UKZN, Dr. Derese served as a researcher and breeder at the Sirinka Agricultural Research Center in Ethiopia. 
-                  In this role, he concentrated on developing drought-resistant and high-yielding crop varieties to enhance food security in the region. 
-                  Additionally, he has been affiliated with Woldia University in Ethiopia, contributing to agricultural development through research and mentorship.
+                  Dr. Derese currently serves as a Lecturer at Woldia University in Ethiopia, where he contributes to agricultural development through research, teaching, and mentorship.
+                  Previously, he worked as a researcher and breeder at the Sirinka Agricultural Research Center in Ethiopia, 
+                  concentrating on developing drought-resistant and high-yielding crop varieties to enhance food security in the region. 
                 </p>
                 
                 <h3 className="text-xl font-semibold text-sage-800 mt-8 mb-4">Research Contributions</h3>
@@ -77,12 +77,8 @@ const About = () => {
                 <h3 className="text-xl font-semibold text-sage-800 mb-4">Affiliations</h3>
                 <ul className="space-y-3">
                   <li>
-                    <div className="font-medium">University of KwaZulu-Natal</div>
-                    <div className="text-sm text-muted-foreground">Assistant Professor, Department of Plant Breeding</div>
-                  </li>
-                  <li>
                     <div className="font-medium">Woldia University, Ethiopia</div>
-                    <div className="text-sm text-muted-foreground">Research Associate</div>
+                    <div className="text-sm text-muted-foreground">Lecturer, Department of Plant Sciences</div>
                   </li>
                   <li>
                     <div className="font-medium">Sirinka Agricultural Research Center</div>
